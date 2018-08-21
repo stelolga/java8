@@ -33,4 +33,5 @@ public class MethodsTest {
 
         assertEquals(expectedCount, actualCount);
     }
+
 }
